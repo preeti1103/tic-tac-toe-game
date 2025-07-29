@@ -2,7 +2,7 @@
 
 A classic Tic Tac Toe game built with HTML, CSS, and JavaScript. Play against a friend or test your skills against the computer!
 
-[![Live Demo](https://preeti1103.github.io/tic-tac-toe-game/)
+[[Live Demo](https://preeti1103.github.io/tic-tac-toe-game/)
 
 ## Features
 
